@@ -1,0 +1,10 @@
+.navbar{
+   position: fixed;
+   text-align: left;
+    top:0;
+     width: 100vw;
+     margin-left: 25px;
+    height: 120px;
+    background-color: rgb(249, 100, 86);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
